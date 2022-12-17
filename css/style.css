@@ -602,6 +602,10 @@ h5 {
   margin-bottom: 1.5rem;
 }
 
+.mb-20 {
+  margin-bottom: 5rem;
+}
+
 .flex {
   display: flex;
 }
